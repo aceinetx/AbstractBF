@@ -1,0 +1,7 @@
+C:\Users\aceinet\source\repos\AbstractBF\AbstractBF\bin\Debug\AbstractBF.exe.config
+C:\Users\aceinet\source\repos\AbstractBF\AbstractBF\bin\Debug\AbstractBF.exe
+C:\Users\aceinet\source\repos\AbstractBF\AbstractBF\bin\Debug\AbstractBF.pdb
+C:\Users\aceinet\source\repos\AbstractBF\AbstractBF\obj\Debug\AbstractBF.csproj.AssemblyReference.cache
+C:\Users\aceinet\source\repos\AbstractBF\AbstractBF\obj\Debug\AbstractBF.csproj.CoreCompileInputs.cache
+C:\Users\aceinet\source\repos\AbstractBF\AbstractBF\obj\Debug\AbstractBF.exe
+C:\Users\aceinet\source\repos\AbstractBF\AbstractBF\obj\Debug\AbstractBF.pdb
