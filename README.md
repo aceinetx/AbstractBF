@@ -1,7 +1,7 @@
 # AbstractBF
 Abstract brainfck compiler with c-like syntax 
 
-Syntax (no semicolons):
+Syntax (no semicolons):<br>
 `p++` move pointer to right (>)<br>
 `p--` move pointer to left (<)<br>
 `p += 4` move pointer to right by some value (>)<br>
