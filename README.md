@@ -15,5 +15,5 @@ Syntax (no semicolons):<br>
 `puts("Hello, world!")` print constant string (caution: will override current pointer, also produces very long output but still has some optimization to that)<br>
 `*p = 5` set pointer value<br>
 `*p *= 3` multiply current pointer value by constant value (caution: will override next and current pointer)<br>
-`*p += 3` add to current pointer value
+`*p += 3` add to current pointer value<br>
 `*p -= 3` remove from current pointer value
